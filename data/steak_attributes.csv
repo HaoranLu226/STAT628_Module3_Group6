@@ -1,0 +1,306 @@
+business_id,name,latitude,longitude,stars,Alcohol,GoodForKids,HasTV,OutdoorSeating,RestaurantsAttire,RestaurantsDelivery,RestaurantsPriceRange2,RestaurantsReservations,RestaurantsTakeOut,Ambience.casual,Ambience.classy,Ambience.divey,Ambience.hipster,Ambience.intimate,Ambience.romantic,Ambience.touristy,Ambience.trendy,Ambience.upscale,BusinessParking.garage,BusinessParking.lot,BusinessParking.street,BusinessParking.valet,BusinessParking.validated
+B_hU-QEkt5G98pYGdfIrsg,Nobu Tei,41.396544,-81.465911,3.5,'none',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+lpxj6LFir23Ds6swW8a6fg,Grandview Saloon,40.4381076,-80.0185368,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+2vzUzl31fFLHKhM6px-rbg,Mariner's Inn,43.1489218,-89.4070057,3.5,'full_bar',False,True,True,u'casual',False,3,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+J4fxdRNWmqckOHTPJocWEw,ML Tavern,41.4547126,-81.4437063,4.0,'full_bar',False,True,True,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+qELIf4gzE_vlteu7pO7TZg,Atria's Restaurant,40.4470921252,-80.004046381,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+szGbmw_vq3kVU4SfK1x6Sw,Ruths Chris Steak House,40.439454,-80.003658,4.0,u'full_bar',False,True,False,u'dressy',False,4,True,True,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+CNklj3fFmwXL13AyvjfV5w,Ann's Chophouse,40.327443,-80.034616,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+d6VYQbeTZ_WdD8Uuhh35dg,Tempest Oyster Bar,43.0739300186,-89.3796241524,4.0,u'full_bar',False,True,True,u'dressy',False,3,True,False,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+K8iNH0OEhS7vZLVyuO1v4A,Wasabi Japanese Steak House,41.1305113,-81.6543561,3.5,'full_bar',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+HOgLMfPB11zz7BsYkFSz0g,Baba's Supper Club,43.1832054,-89.2140966,2.0,u'full_bar',True,True,False,u'casual',False,4,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+vv769u0PvdQhO5IIBFAcwg,Saga Hibachi Steakhouse & Sushi Bar,40.3418115205,-80.0552053647,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+ZspvlO5Dvtd517YhVLJJ_A,Tomo Sushi & Hibachi,41.499484,-81.7004539,3.0,u'full_bar',False,True,True,u'casual',True,3,True,True,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+gWmrOXOmciuTnNi4P0wWDQ,Hyde Park Prime Steakhouse,41.1367374795,-81.6465704509,4.0,u'full_bar',False,True,False,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+Nz0MchMpTVYmJbijeBSVew,Outback Steakhouse,41.1178337,-81.4734259,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+VGxJbglGlx-a7Gdc55Q6jQ,Katana,40.3899009,-80.0406617,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+1MrJJ9tyNyfFrxaNZ67xFg,Silk Road Gourmet Chinese,40.3591070736,-80.0020897818,4.0,u'full_bar',True,True,False,u'casual',True,2,True,True,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+795wIi2-x9RfndhVo0byaA,Steel City Steak House,40.3981061,-79.7690515,2.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+DMRaPL6SnA_RX7yY6rprhQ,Steak On a Stone,41.1312495,-81.6534386,2.5,u'full_bar',False,False,False,u'casual',False,2,True,False,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+zLnmmB9jiKg-A2Lggs64-A,CK's Steak House,41.6709035,-81.2417216,3.0,u'full_bar',False,True,False,u'casual',False,3,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+7ddnq3YQSKguGK15etqGLQ,Ditka's Restaurant - Wexford,40.642662,-80.067024,3.0,u'full_bar',False,True,True,'casual',False,3,True,True,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+eF2jf-E5ktRQIh_4_-Jxsg,Cannon's Chop House,40.2750230347,-80.1665849354,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,0,1,0,0
+dh1S06LtJqMRRpGcePn5Cg,Zach's Place,41.3714222,-81.8685955,3.0,'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+r_QcMIgY2zxdcV40kK_rxw,Applebee's Grill + Bar,40.142141,-88.258452,2.0,u'full_bar',True,True,False,u'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+ewEDv_q-K0fV0FepkHB8sA,Tornado Steak House,43.07243,-89.38434,4.0,'full_bar',False,False,True,'casual',False,3,True,False,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+h-hXxl_9f-QdTYUIx0ar8A,Outback Steakhouse,41.3974202722,-81.6505957894,2.5,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+mZYKqiK-9fzifbFbeEbP1w,McCormick & Schmick's Seafood & Steaks,40.428137705,-79.966480649,3.0,u'full_bar',False,True,False,'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,1,0,1,0,0
+4ZalERS8GVHK_1ULa86rMQ,Rex's Innkeeper,43.19438,-89.4624497,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+B0JdEQoQjr9oka-_YyGZ8g,Outback Steakhouse,40.5759448527,-80.0262372225,2.5,'full_bar',True,True,False,'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+5Gj8twqkHxMunpNJLn5Hjw,Arashi Japan,41.464644,-81.951747,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+xRC2O1i4xQMqqrkKSn7uRw,The Unicorn Restaurant & Pub,41.28497,-82.0645052,4.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7JOo6MO-bJMhfXobJG7SRQ,Timber Lodge,41.198189,-81.841278,3.5,u'full_bar',True,True,True,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+I6ocB-D9EAlk3Y9xGll1qA,Taverne Of Richfield,41.2400486,-81.6554434,3.5,'full_bar',True,True,True,'casual',True,2,True,True,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+ZalWvpZ4Tv4AMHtHG0DwrQ,Square 22 Restaurant and Bar,41.3159941,-81.8347744,4.0,u'full_bar',False,True,True,u'casual',False,2,True,False,1,1,0,0,0,0,0,1,0,0,1,0,0,0
+CmIEkQZ87j1IGm9qWYqUdQ,Toko Japanese Steak House,41.2402252,-81.337449,4.0,'full_bar',True,True,False,'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VDn6tM_Q_08CVuNHSUH4Lw,Lakewood Village Tavern,41.476796,-81.786777,3.5,'full_bar',False,True,False,'casual',True,1,False,True,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+iattM1CQ8JfFm2L7-lDifQ,Atami Japan,40.3312155962,-79.743302594,4.0,u'full_bar',True,True,False,'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Qz4JzvZ_0_2TGTWPTE7XSQ,Steak on a Stone,41.62813,-81.427725,2.5,u'full_bar',True,False,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+x4eptNxzj43ihrk0nZB_OA,Montana Mike's,40.128228,-88.199861,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+XTumKkL8Ns3StEvW1nwcow,Fazio's Restaurant,41.3748099,-81.902066,3.0,u'full_bar',True,True,False,u'casual',False,3,False,True,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+QQMHSov0KBlBSfb7PXOcXg,Sapporo Japanese Steakhouse,40.4400036,-80.0909106,4.0,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+JzITUte597nI4RXQK9nERQ,Yokoso Japanese Steakhouse,40.4090939,-79.9158158,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+L95ppCbcWAt4LUWrCiEvPg,The Capital Grille,40.4407195879,-80.0000391542,4.0,'full_bar',False,False,False,u'dressy',False,4,True,False,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+gqRfs-c6gx_tcIx63Fx4OQ,Harry Buffalo,41.6871191,-81.2899719,2.5,u'full_bar',True,True,True,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MgScNgEPoNExpCOwcgQR3g,LongHorn Steakhouse,41.4614963334,-81.8521149967,3.0,'full_bar',True,True,False,'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+jSnkD2SpD-jcJjBjmxqHpw,Hibachi Japanese Steakhouse,41.5391563,-81.4529642,2.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+YKGb41Io_6mRsm4Bee7aOQ,Firebirds Wood Fired Grill,41.453669,-81.486196,3.5,u'full_bar',False,True,True,'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,1,0,1,0,0
+KDiUpLL46cgoiWIM_UyR6g,Sushi Bomb,40.4525431,-80.1602727,4.0,u'beer_and_wine',True,True,False,u'casual',False,2,False,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+6okGKL2PA7kkc-GjZzNHnA,Johnny's Italian Steakhouse,43.0937293,-89.5267453,3.5,u'full_bar',True,True,True,'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+kkl0Jnord6laHQGkgZxG1Q,Applebee's Grill + Bar,41.238928,-81.34999,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+efTPzpiSkxbgNlQOtwyVOA,Medina Steak and Seafood Company,41.1389647,-81.8724508,3.0,u'full_bar',True,True,True,u'casual',False,3,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+WpOMfnH8hvUOENVNn9xMsQ,John Q's Steakhouse,41.4997221553,-81.6958446545,3.5,u'full_bar',False,True,True,u'casual',False,3,True,True,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+nRmTDIs3Gbis9aX2-v1qcw,Shula's 2 Steak & Sports,41.3935252598,-81.6505193499,3.0,u'full_bar',False,True,True,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Luv7Vq5SbnkHyN3X1ZM9yw,Applebee's Grill + Bar,41.16629,-81.477168,2.5,u'full_bar',True,True,False,'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+PV9CdNFDOX4_zWm3Sy3W8g,Quaker Steak & Lube,43.0980569322,-89.5192287862,3.0,u'full_bar',True,True,True,'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+8-EVsgJWjva29XMuVW2gPA,Nouveau Bistro & Lounge,41.6647396,-81.2414081,4.0,u'full_bar',True,True,True,'dressy',False,3,True,True,0,1,0,0,0,1,0,0,0,0,1,1,0,0
+Rii85bzYKGC9P0zOyAem6A,Texas Roadhouse,41.4246092,-81.7383189,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+yYHdC09T718YaF0KYb6rpg,LongHorn Steakhouse,41.3958031,-81.4633444,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+VobZRj98tDH7AaojYJD8Jg,Applebee's Grill + Bar,40.422538,-79.661546,3.0,'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+VVPwQdO6g9DHCgdBCIlBsw,Applebee's Grill + Bar,41.312317,-81.823672,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NXERVbjRdwe0Deg4d_fVlA,Koto Ramen,40.110827,-88.231612,2.0,'none',True,True,False,'casual',True,2,False,True,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+VYpXvGPkx2k0lZlGry3HQw,Coach's Club,43.1142554,-89.6586769,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+cOAjHOGcmXWJEd1Xo3xt0w,XO Seafood & Oysters,41.462926,-81.470595,3.5,u'full_bar',False,True,True,u'dressy',False,3,True,False,0,0,0,0,1,0,0,1,1,0,0,1,1,0
+mJbrw3Y3NOjCKj2I5t8YsA,Hellriegel's Inn,41.6937211,-81.2846589,2.5,u'full_bar',True,True,True,'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+X0UQortyd6N6zFBVisY_gw,Feiler's,43.036741,-89.454733,3.5,'full_bar',True,False,False,u'casual',False,1,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+iEYCU5LV6FIr3kpvYltYrw,Cabin Club,41.4605556,-81.958732,4.0,u'full_bar',False,True,False,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+cpRiIxqubDa4JV58ZR7-cg,Pittsburgh Steak Company,40.428324,-79.978097,2.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+NXTsT01IVpKYPpa_1L-Rlw,Applebee's Grill + Bar,43.052315,-89.474307,2.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+mNsjRWm99TFmssgKJX_kyg,Great Scott Tavern,41.608624,-81.528842,4.0,u'full_bar',True,True,True,u'casual',False,2,True,False,1,0,0,0,0,0,0,0,0,0,1,1,1,0
+sGTMmemilgAl1tbP0aqc6w,Fitzgerald's,43.1085931,-89.5111557,2.5,u'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+88_7allgDYlxedC9jP1j6w,Applebee's Grill + Bar,41.606407,-81.437956,2.0,u'full_bar',True,True,False,'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+cAX-srNrvlifjfov_jpQ1w,Texas de Brazil,40.4342885,-80.0052397,4.0,u'full_bar',True,True,True,'casual',True,3,True,True,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+HsAVVdyrzSPORCrpHbMg9g,Nineteen10,41.1521348,-81.3561211,3.5,u'full_bar',True,True,True,u'casual',False,2,True,False,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+RPe_cSOxq_qkG-LbxBlOyw,Hyde Park Prime Steakhouse,40.446175,-80.0082771,4.0,u'full_bar',False,True,False,'dressy',False,3,True,False,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+CLSRz9E-HmQRDwV2_smoDA,Ichiban Hibachi Steakhouse,40.4879535,-79.8869153,3.5,'full_bar',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+KBBXaD0FXDTpFuTuSJ6yHA,Applebee's Grill + Bar,40.429457,-79.811206,2.5,u'full_bar',True,True,False,u'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+axGP6FXAZlBdmdN9juu1tQ,"Miami Nights Grill, Bar, & Lounge",41.474456,-81.90065799999999,2.5,u'full_bar',False,True,True,u'dressy',False,2,True,True,0,1,0,0,0,0,0,0,1,0,1,0,1,0
+6keyv1LcbzdD8MCrRaA0nQ,Outback Steakhouse,43.0658872,-89.5239951,2.5,u'full_bar',True,True,True,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+qLy2F9EzCsFYIKd40OJvZA,Red The Steakhouse,40.4414139,-79.9947082,3.0,u'full_bar',False,True,True,u'dressy',False,4,True,True,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+x_AmiOc8DPAyHe5VeoDYEw,Applebee's Grill + Bar,40.426319,-79.888904,2.5,u'full_bar',True,True,False,'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+fROpvJ_V9q6dAXbi4VwtoA,The Capital Grille,41.502243,-81.5014604,4.0,u'full_bar',False,True,False,u'dressy',False,4,True,True,0,1,0,0,1,1,0,0,1,0,1,0,0,0
+WwQ0sr3wDk2jCMre_3mS7A,Big Red's Steaks,43.0733361,-89.396349,3.5,u'none',True,True,False,u'casual',True,1,False,True,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+z9raV7X7cMhGhsOP-bxr7A,Wasabi Japanese Steakhouse,41.4001282,-81.6620998,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+QqbZA4r5g1vCbOxOAKJgWg,Tessaro's,40.462808,-79.9506473,4.0,'full_bar',True,True,False,'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+1p6qHrapvuKpbZGLT9qskw,El Patio,40.0818267,-88.296002,3.5,u'full_bar',True,False,True,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CpNMXASiwtJv5eCDf0n63g,Alexander's Steakhouse,40.136796,-88.245076,3.0,u'full_bar',True,True,False,'casual',False,3,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+jqBUVAWJRJ6QIGXVuhdVvw,Cadillac Ranch,40.4394024356,-80.1478385925,2.5,u'full_bar',True,True,True,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+oq9bF1KUzSldObMSQ_aalQ,Quaker Steak & Lube,41.400715,-81.625622,3.0,'full_bar',True,True,True,'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+NmGY7zhoEUqO_0KxvBocTw,Local Tavern,41.7284579,-81.2564865,3.5,'full_bar',True,True,True,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AEUzqUECmLCrPkIS9ryDCw,Applebee's Grill + Bar,41.519648,-81.475151,2.5,u'full_bar',True,True,False,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+-bHpvkmiFzm_swHLYsGiqw,Ken Stewart's Grille,41.1133044,-81.5786112,4.0,u'full_bar',False,True,True,u'dressy',False,3,True,True,0,1,0,0,0,0,0,0,1,0,1,1,0,0
+nv1XdkWviHXO7N6mK8O1yg,Don's Lighthouse,41.484518,-81.746095,3.5,u'full_bar',False,True,False,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+c3FFDloejdmsPZti7wjR0g,Texas Roadhouse,41.389171,-82.106366,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+p26WM22RrRvkyEztJd57ag,Urban Roadhouse,41.6740925,-81.3247251,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+xSgXMxqfA9VXGHYb9NC9vg,The Flying Rib,41.4771228,-81.7729576,3.5,u'full_bar',False,True,True,u'casual',False,1,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+_dcX-gXs3VxTBmURWdnTOw,Buck & Honeys,43.199587,-89.226091,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+33aNXOprvIR-rtxKTUNBbQ,LongHorn Steakhouse,41.1346694,-81.6536064,3.5,u'full_bar',True,True,False,'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+fja2EnaSxKu1D7uctMhw-w,Red The Steakhouse,41.4985864,-81.6895733,4.0,u'full_bar',False,True,True,'dressy',False,3,True,True,0,1,0,0,0,0,0,1,1,1,0,1,1,0
+GatUelEiMO2tShY16y6Zrg,Applebee's Grill + Bar,41.409718,-81.619864,2.5,u'full_bar',True,True,False,'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+w6F502EKMyn3ONbGT2bQxw,Pickle Bill's Lobster House,41.7422812666,-81.2812566164,3.0,u'full_bar',True,True,True,u'casual',False,3,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+wHG_iKBpUfizBFIGqoaUnQ,Fleming's Prime Steakhouse - Woodmere,41.462988,-81.4739017,3.5,u'full_bar',False,True,True,u'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+UCJpL9VFk3g1B2gjRlLy_g,Ditka's Restaurant,40.448472,-80.163196,3.5,u'full_bar',False,True,False,u'casual',False,3,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+PeATTp15Y_ExaN6mR1dmKw,Quaker Steak & Lube,40.4505157938,-80.1756812708,3.0,u'full_bar',True,True,True,'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+S7ECG2HNltSWFo1FcFTwFQ,Outback Steakhouse,40.331151,-80.068668,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+weWbz-uCwB9_tHMrSGZAZQ,LongHorn Steakhouse,41.4003558,-81.6626427,3.5,u'full_bar',True,True,True,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Occo0_pOXAUG-eL6gazeGQ,Applebee's Grill + Bar,41.461461,-81.689881,2.0,'full_bar',True,True,False,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+h_UvnQfe1cuVICly_kIqHg,Johnny Delmonico's Steakhouse,43.0740207,-89.3813538,4.0,u'full_bar',False,True,True,'dressy',True,3,True,True,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+EXIZwIxLoiPDJs-oKzgaKw,Steak ’n Shake,41.4496327,-81.8178634,2.0,'none',True,False,False,'casual',False,1,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+YohEZMYpKrf-3fyPASKLew,Texas Roadhouse,43.133746,-89.298753,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+KK5Hvy2JNjXpdO_zHA_LCA,Prime Quarter Steak House,43.1151959,-89.3281732,4.0,u'full_bar',False,False,True,u'casual',False,2,True,False,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+gVrOjfdnijDwxivLTHiBAg,Applebee's Grill + Bar,41.428561,-82.204543,2.5,'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+RfM6jDn16Qf8eVz2vJTdbw,Henry Wahner's Restaurant & Lounge,41.1544421,-81.33603,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+wHy5uBfkwEAbf-6UbZT6lw,The Captain's Club,41.6420348,-81.4394437,3.0,'full_bar',True,True,True,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+2U3KaC0sIFeugvSm0c2fJA,LongHorn Steakhouse,41.1650605,-81.8627817,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+62b0uHo9uaSsoOMQFG55jg,Sammy's Famous Corned Beef,40.4391575,-79.9989143,2.5,u'beer_and_wine',False,True,False,'casual',False,1,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+p3DmeeCNz-BdijenlxGI2A,Outback Steakhouse,40.4383688,-79.7594217,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+30ibZa6RLsrdhmCUeoS7tQ,Texas Roadhouse,40.5620812755,-80.0259171054,3.5,'full_bar',True,True,False,'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+0gbi6kYiAOnFwfZ_2_dXSA,Hyde Park Prime Steakhouse,41.4632516,-81.4933324,4.0,u'full_bar',False,True,False,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+LJwS9epPXXvzel7bZ616Gg,Marble Room Steaks and Raw Bar,41.5003939675,-81.688814641,4.0,u'full_bar',False,True,False,'dressy',False,4,True,False,0,1,0,0,0,0,0,0,1,1,0,0,1,0
+3rlMsFJE8MjHE4K2ABkQFw,Tavolo 72,41.3699534,-81.8256366,3.5,'full_bar',False,True,False,'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ef0WLuzSbnSuIKu5i-Z2_g,Outback Steakhouse,40.4573706,-80.1791796,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+PXJkqZGaC5qxhJTVQodN_w,Harry's Steakhouse & Banquet Center,41.4083787,-81.6408735,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+DzVv_g6xsLbMh66HtiZK3A,Coal Hill Steakhouse at Grandview Saloon,40.4381076,-80.0185368,2.0,u'full_bar',False,True,True,u'casual',False,3,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+wyAKcdWQCXudHY30M0Tq4Q,Applebee's Grill + Bar,41.418781,-81.901834,3.0,'full_bar',True,True,True,'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6RmdqLK1H5aodAA8t7Yl2A,LongHorn Steakhouse,40.404148,-79.918819,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+1HtxtLaFgTeerAuF9Q5jRQ,Lone Star Steakhouse,40.3502247038,-79.9411557,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+vOY6w1Q45Iod8sy2c8zetg,"Red, the Steakhouse",41.4524011,-81.486308,4.0,u'full_bar',False,True,True,'dressy',True,4,True,True,0,1,0,0,0,0,0,0,0,0,1,0,1,0
+TNV-nSWQ_pN6wrMwAgxSkA,Mc Govern's Club and Restaurant,43.1824466,-89.2275169,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+XTB-U4e2MCDzyRQ1EpPtLA,Lone Star Steakhouse,41.4150377,-81.8995466,2.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+hP2DOm7E2H4P7MOS7XN_SQ,Hamilton Walker's,40.117491,-88.243875,3.5,u'full_bar',False,True,True,u'casual',True,3,True,True,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+jUddhNjGAE6W7MQKaUEZ4Q,Ryan's,40.136306,-88.2619969,2.0,u'none',True,False,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+jWlErd3TOkO4C0MgP8eDvw,Bella Vista,40.4379704,-80.0183184,3.0,u'full_bar',False,True,False,u'dressy',False,3,True,True,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+2zx0Pt5OeHhjAZoNRqYTog,Fuegos - Steak Tapas Vegan,43.0797595,-89.369608,3.5,u'full_bar',True,False,True,u'casual',True,2,True,True,1,1,0,0,0,0,0,1,0,1,1,1,0,0
+OHKLSUanPcaAQMYkHDBdSw,Applebee's Grill + Bar,41.118674,-81.476827,2.0,u'full_bar',True,True,False,u'casual',True,1,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LWk7Q5CTjpK-k_TfXdbApQ,Brasa Grill,41.4988193,-81.7008219,3.0,u'full_bar',False,False,True,u'dressy',False,3,True,False,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+gtGn5hnHRAnGgfCiTcdj0A,Hibachi Japanese Steakhouse,41.4411018,-81.8608528,2.5,u'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JKAYcu_1UPHTyquCZCKPaw,Strip,41.453573,-82.033843,4.0,u'full_bar',False,True,True,u'casual',False,3,True,True,0,1,0,0,1,0,0,0,0,0,1,0,0,0
+uWL8onvbR7WFJU7BGZ1a2A,Fiore's Italian Steakhouse,41.1335789823,-81.6536120516,2.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+H-wMVXewXX8DmY7uF2pwYA,Cork's and Stubby's,41.3981655,-82.2264716,3.0,u'full_bar',False,True,True,u'casual',False,2,True,True,0,0,0,0,1,0,0,0,0,0,0,1,1,0
+PKjdnTWQSygpOjlWl8VzrQ,Whistlers Kitchen & Bar Wood-Fired,41.4535031,-82.0330224,4.0,'full_bar',True,True,True,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+_vu7qhaHRo0k8gnkojZD_g,Fujiyama Steakhouse & Sushi Bar,41.4683699,-82.0155941,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+YbgEzqyH-nngJMZO0dY0iA,Clearview Restaurant & Pub,41.2019564,-81.6383576,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+9BQGpsIRhs9cRHuGh9xuJw,Toko Japanese Steak House,41.1554880172,-81.3269842509,3.5,'none',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+LFdlt3HzTGGvzgfwzYjCVw,Pacers Sports Bar & Grille,41.675955,-81.315428,3.5,u'full_bar',True,True,True,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+bJGtHxejEJboO2o_DtaPEQ,Applebee's Grill + Bar,40.267996,-80.128261,3.0,'full_bar',True,True,False,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eROPfqFhqHh2wDvz-5O9QQ,Ichiban Hibachi Steakhouse & Sushi Bar,40.269682,-80.12658,3.5,'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3YrySY6jiAJO1N7LbjsI_Q,Bianca's Ristorante Italiano & Lounge,41.2671388,-81.840153,2.5,u'full_bar',True,True,True,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+QT4ax7JkGZma8oMy5j8t2w,DragonFire Steakhouse,40.357621,-80.0503804,2.5,u'full_bar',True,True,False,u'casual',False,3,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3jKaeGaw_iVz1oEqpoRqsQ,Applebee's Grill + Bar,41.156457,-81.407726,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+tORH_LDga3t1bbuluhuxiQ,Smoky's Club,43.0749956,-89.4416756,3.0,u'full_bar',False,True,False,'casual',False,3,True,False,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+QToLw4ijAdErQ906aqr5aw,Nemo Grille,41.4521407,-82.0347739,4.5,u'full_bar',False,True,True,'casual',False,3,True,True,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+t2O4Qx74U_IfBzDHJzvUCA,Urban Farmer,41.5036701,-81.691598,3.5,u'full_bar',True,True,True,'casual',True,2,True,True,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+HBX4hBNcOYwAJ2kAWebtbA,Texas De Brazil,41.4629049,-81.4799889,4.0,u'full_bar',True,True,True,u'casual',True,3,True,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+ZvEJiX8HBIForfbHOfqpmQ,Skyvue Restaurant,40.3505751,-79.9231862,3.5,u'full_bar',True,True,True,'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+1njD5p7-FvV8uoHzwiVYCA,LongHorn Steakhouse,41.6823019,-81.2976018,3.5,u'full_bar',True,True,True,u'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6sCdVRtmhJgNqKh9Vx6JXw,Tavern At Twin Lakes,41.1950389,-81.3378521,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+qQMvHvHnVIEHaOSxTEIu9A,The Hilltop,43.0847455388,-89.6559139572,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+sz6_gKcHjtcpWKIZLXV85w,"or, The Whale",40.4375331903,-79.998808,4.0,u'full_bar',False,True,False,'casual',False,2,True,False,1,1,0,0,0,0,0,1,0,1,0,1,1,0
+h-d71agFCi1IFWaaxPCwYA,Wise Guys Lounge & Grill,41.1130118,-81.5106744,4.0,u'full_bar',False,True,False,u'casual',False,2,True,True,1,0,0,0,1,0,0,0,1,0,1,1,0,0
+7bQU0QI_YID3MgZirZHmSg,Jekyll's Kitchen,41.4313496171,-81.3927800884,3.5,u'full_bar',False,True,True,u'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+nTj1Yi5TyRErrP8k8H3C3g,Kavanaugh's Esquire Club,43.111265,-89.363442,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+TNgqPThc9_MwgSIdsZIUjQ,Delmonico's Steakhouse,41.39469,-81.648719,3.5,'full_bar',False,True,True,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,1,0,1,0,1,0
+_6b9CtXi4fQqiu2VjCVpTQ,Outback Steakhouse,43.128671,-89.3063473,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+r0DureDzsHpzs_VZem5k7g,Outback Steakhouse,41.474908,-81.8956237,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+NSzhahVpI_B32snhJHM0HA,Texas Roadhouse,40.117932,-88.2810949,4.0,u'full_bar',True,True,False,'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+xTID0KVkR_H2v23LsdM02A,Steak ’n Shake,41.1335713078,-81.643151,2.5,'none',True,False,False,'casual',False,1,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+g6aWPjcKukfK1-Po70Lhyw,Wonder Bar Steakhouse,43.052432,-89.379756,3.5,u'full_bar',False,True,True,u'dressy',False,3,True,False,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+Mb4V2aPneclZZ8BfZUjWGA,Ken Stewart's East Bank,41.5007302384,-81.7043933334,3.5,u'full_bar',False,True,True,u'dressy',False,3,True,True,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+SNNrb5T4dn3DMq410HIpxw,Gamekeeper's Taverne,41.43171,-81.39355,3.5,u'full_bar',False,True,True,u'casual',False,3,True,True,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+bkh5o6bCzDCovSkRYBsU1w,LongHorn Steakhouse,40.1413941,-88.2584758,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+_ta7UaBqMTcF25JZy_5YHQ,Applebee's Grill + Bar,41.308429,-81.516664,2.5,u'full_bar',True,True,False,u'casual',False,4,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+Im0hMcWaqWIzuBM8xILDsA,Trivs,41.3139309,-81.819294,4.0,'full_bar',True,True,True,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+8y2TWfFWt_OCJemAJniORQ,Shogun Japanese Steak House,41.6234996,-81.4441874,3.5,'beer_and_wine',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+EKUdxxPirhQgwHI9OpY0FQ,Wasabi Japanese Steakhouse,41.397313,-82.112262,3.0,'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+nxAo0oDgsNlduzUuuUL4Fg,Steak ’n Shake,40.4134446,-79.9044468,2.0,u'none',True,False,False,'casual',False,1,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+2ALi7ZYvil-BAXFa3CMUyA,Shinto Japanese Steakhouse & Sushi Bar,41.293935,-81.835899,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+AplxT8Xq5C1-Edt56FNq3A,Applebee's Grill + Bar,41.162787,-81.861581,1.5,'full_bar',True,True,True,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+JLbgvGM4FXh9zNP4O5ZWjQ,Meat & Potatoes,40.4431445863,-80.0011037908,4.0,u'full_bar',True,False,True,u'casual',False,3,True,True,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+ndzT1maiVwpz-7VFFzAb5Q,Eddie V's Prime Seafood,40.43994,-79.996847,4.5,u'full_bar',False,False,False,'dressy',False,3,True,False,0,1,0,0,0,0,0,1,1,0,0,0,1,0
+w1c_Uy60LSDiMsSjAsEqkw,Rumfish Grille,40.3683930071,-80.1065956659,3.0,u'full_bar',False,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+AEoWScs-gYsXSUUmDbseFg,The Cabin of Willowick,41.6291087,-81.4836299,3.5,u'full_bar',False,True,True,u'casual',True,2,True,True,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+JBkc2Xof8yietmHQLs62aQ,Eddie Merlot's - Pittsburgh,40.440898,-80.0046248,4.0,u'full_bar',False,True,True,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+cs-bfjBie4uwCW99yZmlqw,LongHorn Steakhouse,40.5702237445,-79.7974224031,3.5,u'full_bar',True,True,False,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+qw6gr0f7yIuG5WCcYLQBSA,Bistro 70,41.7268783,-81.2429631,4.5,u'full_bar',False,True,False,u'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,1,1,0,0
+MQXFdfDb1UjrZngnjslmhA,Outback Steakhouse,41.312926,-81.5161822,2.5,'full_bar',True,True,False,'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+9ismhhkIPREHOo8tJi0ETA,Ruth's Chris Steak House,43.0974604,-89.5229994,3.5,u'full_bar',False,True,False,u'dressy',False,3,True,False,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+qb8TiKsNTUqq4P-u6zQLDg,Atria's Restaurant,40.265839,-80.1280336,3.5,u'full_bar',True,True,True,u'casual',True,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+CgsUUVwL8EBqcHFxrtkFtA,Quaker Steak & Lube,41.6577255335,-81.3782529441,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+CySpYWrovIOGh7hdz9ahOQ,Dragonfly Lounge,41.4859322,-81.704615,4.0,u'full_bar',False,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+jzr6jW5cQ0jpPhEo4kGMBw,LongHorn Steakhouse,43.0594110063,-89.5035026245,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+k1FNfGvknWVC_GzirQThmA,Outback Steakhouse,41.6581921,-81.3644696,2.5,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+iSOaf_-deg1nIlCm3cuzvg,Capitol ChopHouse,43.072890586,-89.3805208454,3.5,'full_bar',False,True,True,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,1,0,1,1,1
+Wj-73Uu3U79CGK_H_kyAsg,Quaker Steak & Lube,40.4973775273,-80.2437835566,3.0,u'full_bar',True,True,False,'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+lrL8WPWBesBm2cfUoLvwJA,LongHorn Steakhouse,41.1195369,-81.4784828,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+gv47gtyCkw_8OyexHrqdDA,Rare Steakhouse,43.0752825,-89.3861265,4.0,'full_bar',False,True,False,'dressy',False,4,True,False,0,1,0,0,0,0,0,0,1,1,0,1,1,0
+f64hS5UYq102ApvdYUf9nA,Applebee's Grill + Bar,41.395622,-82.107428,3.0,u'full_bar',True,True,False,u'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+g0APw_zhwwHoLjSlHEsTzw,Applebee's Grill + Bar,41.378349,-81.789168,2.5,'full_bar',True,True,False,'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ihTl21FfAYXzGoM-Gu8U3A,Shuhei,41.4640061,-81.5141728,4.0,u'full_bar',True,False,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Y1Y5aSg5YUFHkpqUnkydig,Applebee's Grill + Bar,41.399787,-81.661373,3.0,u'full_bar',True,True,False,u'casual',None,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+jdIVIQeNBDyYCpFIy52Cgg,Bratenahl Place Bistro,41.5535852468,-81.6056878286,4.5,u'full_bar',False,True,True,'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+UDqYqhDaW96-y7l79VMODw,Applebee's Grill + Bar,40.3912084505,-80.069188,3.0,u'full_bar',True,True,False,'casual',True,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+VwCtpOYiCKA5VXbKZhCSVA,Morton's The Steakhouse,40.4423828266,-80.000872314,3.5,u'full_bar',False,True,False,u'dressy',False,4,True,True,0,1,0,0,0,0,0,0,1,0,0,0,1,0
+QRSmjSpB6Yn5iNS6q88tNg,Ginza Sushi House,41.4966072,-81.6818193,3.5,u'beer_and_wine',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+3R6UGi7SU-rHc8FO2VZ29Q,LongHorn Steakhouse,41.3123585,-81.8207402,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+GDWZh4LMDiUXHcZV3XJRww,The Groove Cheesesteak Co,40.4283701,-79.9775372,3.0,u'beer_and_wine',True,False,True,'casual',False,1,False,True,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+ntds2JP29DPYp765oFqptw,Rusty Anchor,41.498251,-81.706988,3.5,u'full_bar',False,True,True,'casual',False,2,True,False,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+wTjRn-n2wr6aLkNqFIuAGQ,Armstrong's,40.3596095475,-80.0024414062,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+EsjY-B1wh76hK6G6deH1hw,Prime Rib Steakhouse,41.497577,-81.698517,3.5,u'full_bar',False,False,False,u'dressy',False,3,True,True,0,1,0,0,1,1,0,0,0,0,0,1,1,0
+_VHU9KZUHRLp2Hc2JOKlYg,Cioppino Restaurant & Cigar Bar,40.4541644108,-79.983040405,4.0,u'full_bar',False,True,True,u'dressy',False,3,True,True,0,1,0,0,0,0,0,0,1,1,0,1,1,1
+z2RiCl_iU-8bM4Lj1zNL8g,Green Forest Churrascaria,40.446357054,-79.826819346,4.5,u'full_bar',True,True,False,'casual',False,3,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+v1CscQ5oHCRGVyaIcWPf0A,Applebee's Grill + Bar,41.050746,-81.729462,3.0,'full_bar',True,True,False,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hUHIahAcew5i39D_6ZqEmQ,Donatos Fox Chapel,40.4883350846,-79.8828375589,3.0,u'full_bar',False,True,False,u'casual',False,3,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Ywdy4YARQK1ZWOCDzZDi-w,Sarava At Shaker Square,41.4841708,-81.5897355,4.0,u'full_bar',False,True,True,u'casual',True,2,True,True,0,1,0,0,0,0,0,0,0,0,1,1,1,0
+9lDpO8fpgZKd18yskBM3Zw,Diamond Men's Club,41.4932113,-81.7021476,3.0,u'full_bar',False,True,True,u'casual',False,2,True,False,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+J7NwmxRazh6pw2K9FwxNLA,Saga Hibachi Steakhouse & Sushi Bar,40.2753121846,-80.166563936,2.5,u'full_bar',True,True,True,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7bSE9GOvftLyvwvyz9XJoA,Applebee's Grill + Bar,40.348518,-79.948077,2.5,u'full_bar',True,True,False,u'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+XfO5MZI2lH1U2HsMnIsYzg,Noosa Bistro,41.7142793,-81.2984618,3.5,u'full_bar',False,True,True,u'casual',True,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+PF8HqToO6An0mH6odFoCEw,South Philly Steak & Fries,40.342619,-80.055283,2.0,'none',True,True,False,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hXCoi8OuvdhIA-zXJiPvfg,Full Of Bull Famous Roast Beef,43.0751289,-89.394324,2.5,u'none',True,True,True,u'casual',True,1,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+_XVHWZ_epQZkDxg1alyD-g,Brown Derby,41.71438,-81.298804,2.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+hM48axj9twnf7A6a5f8cjA,Sumo Japanese Steakhouse & Sushi Bar,43.1227227,-89.314762,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+5QVozBk6HVJZHA3W-s7aDg,Corkscrew Saloon,41.1395078,-81.8789928,4.0,'full_bar',True,True,True,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+j4jsgp-e315s11ehJfRzAA,The Carlton,40.4396782,-79.9959316,4.0,u'full_bar',False,True,False,u'dressy',True,3,True,True,0,1,0,0,0,0,0,0,1,1,0,0,0,1
+guQww9yGHP7rRTea6zTnDg,Andrew's Steak and Seafood,40.446786,-80.022094,3.5,u'full_bar',False,True,True,'casual',False,3,True,False,0,1,0,0,0,1,0,0,1,1,0,0,1,0
+47me-6Zme7RYR0zEonfaHg,Texas de Brazil,41.4609961208,-81.9525268849,3.5,u'full_bar',False,True,True,'casual',True,3,True,True,0,1,0,0,0,0,0,0,1,1,1,0,1,0
+nfJHNu_AQXptaTQIHjpAoQ,LongHorn Steakhouse,40.451402576,-80.161831434,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+MPSPlwGM11T9yq9rNBIkog,Nicky & Smitty's Deli Restaurant,41.3455767405,-81.3759839141,3.5,u'beer_and_wine',True,True,False,u'casual',True,1,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+QJ1YpQLVuentjgTQqNqqpw,XO Prime Steaks,41.4998531,-81.6984516,3.5,'full_bar',False,True,False,'dressy',False,3,True,False,0,1,0,0,0,1,0,0,1,0,0,1,1,0
+xu3cVLDeZ3RLJFh-IY5DGw,Applebee's Grill + Bar,40.639515,-79.938648,2.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+k7wXMfLPfsMfFHf5wBrZuw,Butch's Saloon,41.336731,-81.7847172,2.5,u'full_bar',False,True,True,'casual',False,1,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+uGwwPkw2AEvKkVHiSufhzQ,Jim Gould,40.1182231,-88.2435515,3.5,'full_bar',False,False,True,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+0wUBRqU95D8URo5Ws4r5Qg,Steak ’n Shake,41.3567961662,-81.389581,2.0,u'none',True,False,False,'casual',False,1,False,True,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+9JUynLfWPwe1X9gsJS6FTA,Cleveland Chop,41.4994315,-81.6993047,4.0,u'full_bar',True,True,True,u'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,1,1,1,0
+yMvL7FUJSXNRUDpQTfT_3Q,Reserve Inn,41.23964,-81.441799,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+CZjWBiv0U0UFELpJ-UDUfg,Rodizio Grill,41.399473,-81.625168,3.5,u'full_bar',True,True,False,'casual',False,3,True,False,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+PFr2uIXNFKya1Fy46dW-zg,Ken Stewart's Lodge,41.187538,-81.635807,3.5,'full_bar',False,False,True,u'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+ijRCz1YX5Ws2UW_2G0Bz7w,Applebee's Grill + Bar,40.449205,-80.161885,3.0,u'full_bar',True,True,False,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+xtDZdPaHwhAwoo77QV9Oeg,Fleming's Prime Steakhouse & Wine Bar,43.0747399,-89.451447,3.5,u'full_bar',False,True,True,'dressy',False,3,True,False,0,1,0,0,0,1,0,0,1,0,1,0,0,0
+f79mtjCKvrBtd5aEtaMTYQ,Buccis,41.3700873,-81.8255857,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+YoYL__V3bUF4KluaJ8QO4A,Stonehouse Grill,41.4578959,-81.8957897,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+RcsfZ7IrWSNvM1AYcLmWNw,Steak ’n Shake,40.5700855645,-79.8012596369,2.5,u'none',True,False,False,u'casual',False,1,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+HO__o8ndEqZS84voSZZONQ,Girves Brown Derby,41.2396771,-81.3441212,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+4sRJvmKh43AqMRrjdwEdwA,Texas Roadhouse,40.369472,-80.1050829,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+XYmTwXGeDhB5Ol3rpO7mmg,Hyde Park Prime Steakhouse,41.4604022,-81.9520721,4.0,u'full_bar',True,True,True,u'dressy',False,3,True,False,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+IUmylj6lLBFUyQtBnxB_jQ,Sushi Rock,41.5004234,-81.4967959,2.5,u'full_bar',False,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+RJNAeNA-209sctUO0dmwuA,The Old Fashioned,43.0761862475,-89.3837572172,4.0,'full_bar',True,True,True,'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,1,1,1,0,0
+ZeN8xHEhsPS-amDyZSYJ9w,Ruth's Chris Steak House,41.5000404,-81.6922384,4.0,'full_bar',False,True,False,'dressy',False,3,True,True,0,1,0,0,0,0,0,0,0,1,0,0,1,0
+wUqqq1nUFA8Fn-3vYYFyWQ,Porta Bella Italian Restaurant,43.0741441325,-89.3955963625,2.5,u'full_bar',False,False,True,u'casual',False,2,True,True,0,1,0,0,1,1,0,0,0,1,0,0,0,0
+S5OyMT8iK7QzVKZPtI2k1g,Girves Brown Derby,41.137678,-81.7961977,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+HPGepGRhJv-xYcPMIEhTMA,Creo's Steakhouse,41.1017965,-81.4813685,2.5,u'full_bar',True,True,False,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+AyH8VVj9CvGRCoCVsk-N5g,Ichiban Steakhouse & Sushi Bar,40.6335562,-80.0575352,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+9spk8K9pg5HdDNMNxAlGwg,8 Seasons Grille,43.0695351,-89.3896261,3.5,u'full_bar',False,True,True,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+Qw45ZqhBR0VI5_cI60SgeQ,Fleming's Prime Steakhouse & Wine Bar- Akron,41.1353804,-81.6430213,4.0,u'full_bar',False,True,False,u'dressy',False,3,True,False,0,1,0,0,0,0,0,0,1,0,1,0,1,0
+QUvT1bLQ1qBxkWhLUa_FBA,Don's Pomeroy House,41.3151282,-81.8357991,4.0,u'full_bar',False,True,True,'dressy',False,3,True,False,0,1,0,0,0,1,0,0,0,0,1,0,1,0
+54kfE6vauORUVUifLagkXQ,Hyde Park Prime Steakhouse,41.4975081374,-81.6929593866,4.0,u'full_bar',False,True,False,u'dressy',False,3,True,True,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+yBufRP1YQp9vXmId_Y2iEQ,Applebee's Grill + Bar,41.675927,-81.312288,3.0,'full_bar',True,True,False,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SvxSoyZn0WW0c7bFLIYfMA,Baxter's American Grille,40.0972098875,-88.2458299398,4.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+Csj88GuxCXO-24VQraitHQ,Applebee's Grill + Bar,41.237083,-81.807792,2.5,u'beer_and_wine',True,True,False,'casual',False,1,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+-RQCdTsH5rkG702auLcEqA,Hoss's Steak & Sea House,40.422690505,-79.6636728922,3.5,u'none',True,True,False,u'casual',False,2,None,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+PmWiJxGzwQY6ErclQwtRuA,Outback Steakhouse,41.1340462,-81.654649,2.5,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+D6KoYvnmWswZJjdGm0uiqA,Girves Brown Derby,41.373934,-81.830332,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Szl3MsKnwryJGYuPRPMaIg,Applebee's Grill + Bar,40.525277,-80.00592,2.0,'full_bar',True,True,False,'casual',None,2,False,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CsbNmQqu9dKFrgcIItevYA,Revel,40.4401718,-80.0012482,3.5,'full_bar',False,True,True,'casual',False,2,True,True,0,1,0,0,0,0,0,1,0,1,0,1,0,0
+fzL7sTgCYhoSIUpcQ7mrBA,Elliott's BBQ and Steakhouse,40.3253741,-79.956298,3.5,'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+XBY5WCikRpzboqwLc8CcBg,Ballantine,41.6404065,-81.4063844,3.5,u'full_bar',False,True,True,'casual',False,2,True,True,0,1,0,0,0,0,0,0,0,0,0,1,1,0
+5YyLWps6xL372Lj2hRlPQw,Quaker Steak & Lube,41.425227407,-82.0858277287,3.0,u'full_bar',True,True,True,u'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+7ED5DPk40iqlMpK1E7XoOg,Ferris Steak House & Tavern,41.4704865025,-81.8364863098,3.5,u'full_bar',True,True,True,u'casual',False,3,True,True,0,1,0,0,0,0,0,0,1,0,1,1,1,0
+6LtbAtQKXWFj7QcqBnr6SA,Wasabi Japanese Steakhouse,41.4579772,-81.4873233,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+7ndalFukYiEalNeN4eL9vQ,Texas Roadhouse,40.4293145884,-79.8099238444,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+NTuZSdp9iirzpjPOGSEz1Q,Hibachi Japan Steak House,41.1297363,-81.4839233,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,1,0,0,0,1,1,0
+4A1ariVt4NG98LzPjjRpkQ,Samurai Sushi and Steakhouse,41.315657,-81.815215,3.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+uYoSb2rNi77LMQZ-Nn1Epg,A La Brasa Mexican Grill,43.0719925103,-89.3895536687,4.0,u'full_bar',True,True,True,u'casual',True,1,False,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+rc9SfYli96cnlPDMyJ7hyA,LongHorn Steakhouse,40.5712919,-80.0229697,3.5,u'full_bar',True,True,False,'casual',False,2,False,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+eWer42jEQGG1o8mNQUk4Kg,Saga Hibachi Steakhouse & Sushi Bar,40.429789,-79.795402,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2MnNaZcNG_2whC9NyL4qgA,Mulligans Pub and Grill,41.461945,-82.0489288,3.5,u'full_bar',True,True,True,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+HUTDbniG4URIGfkP8e_cfA,Quaker Steak & Lube,41.411381,-81.841295,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+RG2IGb4LwbxUwCW3iooYDA,Otto's Restaurant & Bar,43.0600543,-89.4906724,4.0,u'full_bar',False,True,True,'casual',True,3,True,True,0,1,0,0,1,1,0,0,0,0,1,0,0,0
+DD5TD5JA9cHQTDtzKUzhyg,Watertower Chop House,43.183051,-89.214044,3.0,u'full_bar',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,1,0,0
+89-bwvH5mWWOOb00VTUyFQ,Applebee's Grill + Bar,40.069624,-88.249764,2.5,u'full_bar',True,True,False,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7Vi4T2E5ePOkNifyr2t6cw,Parker's Grille & Tavern,41.495123,-82.0222371,3.5,u'full_bar',True,True,True,u'casual',False,2,True,True,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+0grgvnq4GgoY-estWytUhg,Timpone's,40.1064232,-88.2236145,3.5,u'full_bar',False,True,False,'dressy',False,2,True,True,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+pP4MRsHfrage-sm4mXYFAQ,Applebee's Grill + Bar,41.501042,-81.534671,2.0,'full_bar',True,True,False,'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7eLUaZwipH_uwfvv-_WafQ,Red Wheel Restaurant,40.30683,-88.17422,3.0,'none',True,True,False,'casual',False,1,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mUMb6sxFa9JZYQbI9RDs0Q,Applebee's Grill + Bar,41.42457,-81.735374,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6wwz7b5xehEilPx98ZnZtA,Outback Steakhouse,41.376432199999996,-81.7354122,3.0,u'full_bar',True,True,False,u'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+8GVGzFgTKNfPixL143Zadw,Texas Roadhouse,41.182831,-81.476215,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+nhZ1HGWD8lMErdn3FuWuTQ,Applebee's Grill + Bar,41.461949,-81.850762,3.0,'full_bar',True,True,True,'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+TUZTu3dQxSxSIKRMkHQrsA,The Overlook,41.1911681603,-81.3395862798,3.5,u'full_bar',False,True,True,'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+binymvD2QxETihoAmHOMSQ,Austin's Smokin' Steakhouse,41.5391989,-81.4428555,3.0,u'full_bar',True,True,False,u'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+8B7A5KqrrbxOlCX66hqfOg,McCormick & Schmick's Seafood & Steaks,40.4412400187,-79.9997471273,3.0,u'full_bar',False,True,True,u'dressy',False,2,True,True,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+p1YmWxE6GG0V9dJP0239QA,Moss' Prime Rib & Spaghetti House,41.3676581,-82.1087015,3.0,u'full_bar',True,True,True,u'casual',False,2,True,True,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+VQGetWNN1f0dMWQ6ehDAVg,Morton's The Steakhouse,41.4972786,-81.6936338,3.5,u'full_bar',False,True,False,'dressy',False,4,True,True,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+6AwirUhnpzMZynePZbrdBQ,Delaney's Charcoal Steaks,43.057938,-89.495496,3.5,u'full_bar',False,True,True,u'casual',False,3,True,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+BiMWzRn7ppT_zgoY37yNVg,Lanning's Restaurant,41.1579151,-81.6366997,4.0,u'full_bar',False,False,False,u'dressy',False,3,True,False,0,1,0,0,1,0,0,0,1,0,0,0,1,0
+PBmfdx-tC2D54FI3HtcKww,The Ribeye,40.0961489,-88.2453958,3.5,u'full_bar',True,True,False,'casual',False,2,True,False,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+g0zzJe48r6zL8s98cQcMdw,Watami Hibachi Steakhouse,40.3486210227,-79.9489279836,4.5,u'full_bar',True,True,False,u'casual',False,2,True,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HlYzk84INQaNslFT-lyBFw,Applebee's Grill + Bar,43.130109,-89.304069,2.0,u'full_bar',True,True,False,u'casual',True,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+q5viyMO6EtJMmmarb4YmIA,Kosar's Wood-Fired Grill,41.3482407821,-81.5245421767,3.0,u'full_bar',False,True,False,'casual',False,3,True,True,0,1,0,0,0,0,0,1,1,0,1,0,1,0
+8hwbcCNUv345Kw1xfOCcWg,Brown Derby,41.5193506,-81.4862939,3.0,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+MASMoYbcWPQ_eLjzaujZiA,Applebee's Grill + Bar,41.1353967,-81.640996,2.5,u'full_bar',True,True,False,u'casual',True,2,False,True,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+MothxPy-ZoFcCdoVGw2hDQ,Applebee's Grill + Bar,40.567197,-79.802707,3.0,'full_bar',True,True,True,'casual',False,2,False,True,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+KGpsB2dsdkxl8SGVUlJbZw,Outback Steakhouse,40.144955,-88.257228,3.5,u'full_bar',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+Jqd8QeYoBxJvYxhG0Lekyg,Texas Roadhouse,41.60434,-81.438285,3.5,u'full_bar',True,True,False,u'casual',False,2,False,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+MesBAxNk_M7ISbBmVDiiWQ,El Torito Taqueria Bar,41.4787931075,-81.7691058666,4.0,u'full_bar',True,True,False,'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+RaXras2GhbluJs68TSC3Bg,Tokyo Hibachi & Sushi,41.156908,-81.861845,4.0,'full_bar',True,True,False,'casual',False,2,True,True,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+U3_446QN2gdF87stGCfu1Q,Feng Japanese Steak Hibachi & Sushi House,40.4639582,-79.9528867,4.0,'full_bar',True,True,False,'casual',True,2,True,True,1,0,0,0,0,0,0,0,0,0,0,1,0,0
