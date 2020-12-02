@@ -154,6 +154,17 @@ reg<-lm(stars ~ Alcohol + GoodForKids + RestaurantsAttire + RestaurantsDelivery 
 summary(reg)
 anova(reg)
 
+## diagnostic
+png("figure/residuals.png", width = 400, height = 300)
+plot(reg$fitted.values, reg$residuals, xlab = "fit", ylab = "residuals", 
+     main = "Residuals vs. Fitted values")
+dev.off()
+
+png("figure/qqplot.png", width = 400, height = 300)
+qqnorm(residuals(reg), datax = TRUE, xlab = "theoretical quantile", ylab = "observed")
+qqline(residuals(reg), datax = TRUE)
+dev.off()
+
 
 
 # plot (attributes not included in final suggestions)
