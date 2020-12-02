@@ -1,0 +1,10 @@
+name: shiny
+title:
+username:
+account: rhuang95
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3333715
+bundleId: 3930471
+url: https://rhuang95.shinyapps.io/shiny/
+when: 1606871987.53981
