@@ -1,49 +1,7 @@
-#
-# This is the user-interface definition of a Shiny web application. You can
-# run the application by clicking 'Run App' above.
-#
-# Find out more about building applications with Shiny here:
-#
-#    http://shiny.rstudio.com/
-#
-
 library(shiny)
 library(leaflet)
-library(ggradar)
 library(ggplot2)
 library(Rmisc)
-
-## Define UI for application that draws a histogram
-#shinyUI(fluidPage(
-#    h1(span("Yelp Steakhouse Map", style = "font-weight: 500"), 
-#       style = "font-family: 'Source Sans Pro'; text-align: center;padding: 20px"),
-#    sidebarLayout(
-#        sidebarPanel(
-#            selectInput("state", "State",choices = c("All", as.character(unique(bus$state)))),
-            
-#            selectInput("city", "City:", choices = c("All", as.character(unique(bus$city)))),
-            
-#            selectInput("business_id", "Name:", choices = c("All", as.character(bus$business_id))),
-#            p("Note: In order to show radar plot and suggestions, please first select state, city and business_id!"),
-#            p("Note: If radar plot and distribution plot are not showed after selecting business id, it means for this store, we don't have enough data and can't show relative plots.")
-            
-#        ),
-#       mainPanel(
-#            tabsetPanel(
-#                tabPanel("Steakhouse Map", leafletOutput("map", width = "100%", height = 600)),
-                
-                # tabPanel("Stars Distribution", plotOutput('density_plot', width = "100%", height = 600)),
-                # tabPanel("Radar of reviews", plotOutput('radar', width = "100%", height = 600)),
-#                tabPanel("Personalized Business Advice", tableOutput('tt'))
-#            )
-        
-#    )
-    
-#)
-
-
-#)
-#)
 
 navbarPage('Data-driven Business Plan for Steakhouses',inverse = T,collapsible = T,
                tabPanel("Group 6",
@@ -51,18 +9,29 @@ navbarPage('Data-driven Business Plan for Steakhouses',inverse = T,collapsible =
                                   style = "font-family: 'Source Sans Pro'; text-align: center;padding: 15px"),
                                sidebarLayout(position = "right",
                                    sidebarPanel(
-                                       selectInput("state", "State",choices = c("All", as.character(unique(bus$state)))),
+                                       p("Please choose your steakhouse:"),
+                                       selectInput("state", "State:",choices = c("All", as.character(unique(bus$state)))),
                            
                                        selectInput("city", "City:", choices = c("All", as.character(unique(bus$city)))),
                            
-                                       selectInput("business_id", "Name:", choices = c("All", as.character(bus$business_id))),
-                                     
-                        ),
+                                       selectInput("name", "Steakhouse Name:", choices = c("All", as.character(bus$name))),
+                                       h5("If any question, please contact us:"),
+                                       p("Haoran Lu, hlu226@wisc.edu"),
+                                       p("Mengkun Chen, mchen373@wisc.edu"),
+                                       p("Rui Huang, rhuang95@wisc.edu")
+                                       ),
                         mainPanel(
                             tabsetPanel(
-                                tabPanel("Map", leafletOutput("map", width = "100%", height = 600)),
+                                tabPanel("Guide",h1(" Guide for this app"),plotOutput('steak', width = "80%", height = 220),
+                                         p("This app is designed to provide valuable information and actionable advice about the steakhouses in OH, PA, WI, and IL. The main functions are as follow:"),
+                                         p("Rankings——You can have an intuitive understanding of the star ranking and popularity ranking of your steak house in the city located. At the same time, through the selecting function of the sidebar, you can obtain the distribution of star ratings and review counts of a specified city or state, to better understand the position of restaurant operations in the entire industry."),
+                                         p("General Food Advice--You can intuitively understand which attributes of the steakhouse are more crucial in terms of food through the word cloud diagram. And accordingly, specific food-related suggestions for the entire steakhouse industry are provided."),
+                                         p("General Service Advice--You can intuitively understand which attributes of the steakhouse are more crucial in terms of service through the word cloud diagram. And accordingly, specific service-related suggestions for the entire steakhouse industry are provided."),
+                                         p("Customized Business Advice--This is the most valuable part of this app, where you will get very detailed and actionable suggestions on your steakhouse to improve the operations."),
+                                         ),
+                                
                                 tabPanel("Rankings", plotOutput('ranking', width = "100%", height = 300),h2("Stars Ranking:"),textOutput('beats'),h2("Popularity:"),textOutput('pop')),
-                                tabPanel("Food Advice",h2("Food-related Keywords"),
+                                tabPanel("General Food Advice",h2("Food-related Keywords"),
                                          imageOutput("food"),
                                          h2("Food-related Suggestions"),p("Steak Quality! For a steak house, the priority is to ensure the quality of the steak. This is what customers pay most attention to."),
                                         # br(),
@@ -73,7 +42,7 @@ navbarPage('Data-driven Business Plan for Steakhouses',inverse = T,collapsible =
                                          p("Special foods are a good idea! We found sushi is very popular to the customers. Serving some special foods like Asian foods or Italian foods can make your restaurant unique to the others."),
                                         # br(),
                                          p("Good Drinks! A good bartender can bring a lot of praise to the restaurant. Please pay extra attention to make good martinis, people like them!")),
-                                tabPanel("Service Advice",h2("Service-related Keywords"),
+                                tabPanel("General Service Advice",h2("Service-related Keywords"),
                                          imageOutput("service"),
                                          h2("Service-related Suggestions"),p("Service well! Service is always important for a fine restaurant. Please serve friendly and quickly. Offering convenient reservation and delivery will also help a lot."),
                                          # br(),
@@ -85,7 +54,7 @@ navbarPage('Data-driven Business Plan for Steakhouses',inverse = T,collapsible =
                                          # br(),
                                          p("Brunch is a good idea! Customers like brunch and it will bring extra income to the restaurant.")),
                                 
-                                tabPanel("Personalized Business Advice", tableOutput('tt'))
+                                tabPanel("Customized Business Advice", tableOutput('tt'))
                             )
                            
                         )
