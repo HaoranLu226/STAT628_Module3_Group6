@@ -2,15 +2,23 @@
 
 ## Introduction
 
-The repository includes four folders-code, data, figure and Rshiny. Executive summary and slides for presentation are attached outside the four folders. 
+The repository includes four folders-<code>code</code>, <code>data</code>, <code>figure</code> and <code>Shiny</code>. Executive summary and slides for presentation are attached outside the four folders. 
 
-The code folder contains data generating code, attribute analysis code and review analysis code. 
+The <code>code</code> folder contains data generating code, attribute analysis code and review analysis code. 
 
-The data folder contains extracted steakhouse business data and other data generated from the analysis. 
+- <code>transjson.py</code> pre-process <code>business.json</code>
+- <code>reviewtips_process.py</code> pre-process <code>review.json</code> and <code>tips.json</code>
+- <code>wordcloud_tip.R</code> count word frequency and plot word clouds
+- <code>word_result.csv</code> result of word counting in tips
+- <code>extract_attributes.ipynb</code> extract attributes from <code>business.json</code>
+- <code>attribute_analysis.R</code> factorize attributes and do statistical analysis
+- <code>attributes_suggestions.ipynb</code> generate suggestions data file
 
-The figure folder contains plots generated from the code files. 
+The <code>data</code> folder contains extracted steakhouse business data and other data generated from the analysis. 
 
-The Rshiny folder contains shiny app generating code and other support files. 
+The <code>figure</code> folder contains plots generated from the code files. 
+
+The <code>Shiny</code> folder contains shiny app generating code and other support files. 
 
 Detailed data clearning process, analysis methods and suggestions on business owners is presented in the executive summary. Slides will help present our analysis. 
 
