@@ -19,6 +19,12 @@ The <code>data</code> folder contains extracted steakhouse business data and oth
 The <code>figure</code> folder contains plots generated from the code files. 
 
 The <code>Shiny</code> folder contains shiny app generating code and other support files. 
+- <code>global.R- </code> is for loading the required packages and reading the datasets for the app.
+- <code>server.R</code> is for the interactive part, computing and plotting for the app.
+- <code>ui.R</code> is for the layout of the app.
+- <code>suggestionsnew.csv</code> is the csv file of customized suggestions.
+- <code>steakhouse_business.csv</code> is the csv file of business information of all steakhouses.
+
 
 Detailed data clearning process, analysis methods and suggestions on business owners is presented in the executive summary. Slides will help present our analysis. 
 
