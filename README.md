@@ -24,6 +24,10 @@ Detailed data clearning process, analysis methods and suggestions on business ow
 
 4. Build up R shiny to help present our finds. 
 
+## Shiny App Link: 
+
+https://rhuang95.shinyapps.io/shiny/
+
 ## Team Member
 
 Mengkun Chen  mchen373@wisc.edu
