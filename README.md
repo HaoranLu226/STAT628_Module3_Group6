@@ -9,7 +9,6 @@ The <code>code</code> folder contains data generating code, attribute analysis c
 - <code>transjson.py</code> pre-process <code>business.json</code>
 - <code>reviewtips_process.py</code> pre-process <code>review.json</code> and <code>tips.json</code>
 - <code>wordcloud_tip.R</code> count word frequency and plot word clouds
-- <code>word_result.csv</code> result of word counting in tips
 - <code>extract_attributes.ipynb</code> extract attributes from <code>business.json</code>
 - <code>attribute_analysis.R</code> factorize attributes and do statistical analysis
 - <code>attributes_suggestions.ipynb</code> generate suggestions data file
